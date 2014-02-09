@@ -1,4 +1,4 @@
-class Myturtle(Turtle)
+﻿class Myturtle(Turtle)
     def __init__(self)
     
     """Constructs a new MyTurtle object.
